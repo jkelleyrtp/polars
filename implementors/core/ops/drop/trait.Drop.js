@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polars"] = [{"text":"impl&lt;T&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/drop/trait.Drop.html\" title=\"trait core::ops::drop::Drop\">Drop</a> for <a class=\"struct\" href=\"polars/chunked_array/builder/struct.AlignedVec.html\" title=\"struct polars::chunked_array::builder::AlignedVec\">AlignedVec</a>&lt;T&gt;","synthetic":false,"types":["polars::chunked_array::builder::AlignedVec"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
